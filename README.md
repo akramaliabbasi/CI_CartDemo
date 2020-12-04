@@ -2,19 +2,21 @@
 
 
 This is demo of Cart  using the CodeIgniter is a powerful PHP framework with a very small footprint,
-built for developers who need a simple and elegant toolkit to create full-featured web applications.
 
-Composer Installation : https://codeigniter.com/user_guide/installation/installing_composer.html
+built for developers who need a simple and elegant toolkit to create full-featured web applications. <br>
 
-Manual Installation: https://codeigniter.com/user_guide/installation/installing_manual.html
+1st step: git clone the demo  <br>
+2nd step : Update composer <br>
+Composer Installation : https://codeigniter.com/user_guide/installation/installing_composer.html <br>
 
 
-After loading CI Upload the DB <br>
+3rd Step: After loading CI Upload the DB <br>
 
-path: \cart\SQL_DUMP\cart_demo.sql \n\t
-DB: cart_demo \n\t
-user: root \n\t
+path: \cart\SQL_DUMP\cart_demo.sql <br>
+DB: cart_demo <br>
+user: root <br>
 
-Login : \n\t
-user: demo@gmail.com   \n\t
-pass: admin!321   \n\t
+4th Step: <br>
+Login : <br>
+user: demo@gmail.com   <br>
+pass: admin!321   <br>
