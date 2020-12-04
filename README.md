@@ -9,7 +9,7 @@ Composer Installation : https://codeigniter.com/user_guide/installation/installi
 Manual Installation: https://codeigniter.com/user_guide/installation/installing_manual.html
 
 
-After loading CI Upload the DB \n\t
+After loading CI Upload the DB <br>
 
 path: \cart\SQL_DUMP\cart_demo.sql \n\t
 DB: cart_demo \n\t
